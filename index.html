@@ -3,28 +3,171 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="assets/style.css">
+
+    <link rel="shortcut icon" href="assets/img/aizatkmrdin.png" type="image/png">
+
+    <!--=============== REMIXICONS ===============-->
     <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
-    <title>Aizatkmrdin</title>
+
+    <!--=============== SWIPER CSS ===============-->
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+
+    <!--=============== CSS ===============-->
+    <link rel="stylesheet" href="assets/css/styles.css">
+
+    <title>aizatkmrdin.</title>
 </head>
 
 <body>
-    <section class="parent">
-        <div class="child">middle of development la macha!
-            <br><br>
-            <!--<a href="https://www.facebook.com/" target="_blank" class="home__social-link">
-                <i class="ri-facebook-box-fill"></i>
-            </a>-->
-            <a href="https://www.instagram.com/aizatkmrdin" style="text-decoration: none" target="_blank" class="home__social-link">
-                <i class="ri-instagram-fill"></i>
-            </a>
-            <a href="https://twitter.com/aizatkmrdin" style="text-decoration: none" target="_blank" class="home__social-link">
-                <i class="ri-twitter-fill"></i>
-            </a>
+    <header class="header" id="header">
+        <nav class="nav">
+
+
+            <div class="nav__menu" id="nav-menu">
+                <ul class="nav__list">
+                    <li class="nav__item">
+                        <a href="#home" class="nav__link active-link">Home</a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#about" class="nav__link">About</a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#project" class="nav__link">Project</a>
+                    </li>
+                </ul>
+
+
+                <i class="ri-close-line nav__close" id="nav-close"></i>
+            </div>
+            <a href="#" class="nav__logo">aizatkmrdin.</a>
+            <div class="nav__toggle" id="nav-toggle">
+                <i class="ri-function-line"></i>
+            </div>
+        </nav>
+    </header>
+
+    <main class="main">
+        <!--==================== HOME ====================-->
+        <section class="about section" id="home">
+            <div class="about__container container grid">
+                <div class="about__img">
+                    aizatkmrdin.
+                </div>
+                <div class="about__data">
+                    <h2 class="section__titles about__titles">Hello, I’m Aizat Kamarudin.</h2>
+                    <h2 class="section__titles about__titles">A mobile application & fullstack developer.</h2>
+                    <p class="about__description" style="font-weight: bold;">Let’s get to know me.
+                    </p>
+                    <a href="#about" class="button">Get To Know me</a>
+                </div>
+
+
+            </div>
+        </section>
+
+        <!--==================== ABOUT ====================-->
+        <section class="about section" id="about">
+            <div class="about__container container grid">
+
+                <div class="about__data2">
+                    <h2 class="section__titles about__titles">Currently, I work as software team lead at Starfire Technology, A software Company. </h2>
+                    <p class="about__description" style="font-weight: bold;">I lead team which focus on develop mobile & web application. We help solve our client problem. For almost 4 year, I’ve work as software developer. As Software Team Lead, I’ve work with team and client to develop a product that can
+                        ease their work flow everyday.
+                    </p>
+                </div>
+                <div class="about__img">
+                    About
+                </div>
+
+            </div>
+        </section>
+
+
+        <!--==================== PLACES ====================-->
+        <section class="place section" id="project">
+            <h2 class="section__title">Recent Project</h2>
+
+            <div class="place__container container grid">
+                <!--==================== PLACES CARD 1 ====================-->
+                <div class="place__card">
+                    <img src="assets/img/que.jpg" alt="" class="place__img">
+
+                    <div class="place__content">
+
+                        <div class="place__data">
+                            <h3 class="place__title">Queue System</h3>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!--==================== PLACES CARD 2 ====================-->
+                <div class="place__card">
+                    <img src="assets/img/prolight.jpg" alt="" class="place__img">
+
+                    <div class="place__content">
+
+                        <div class="place__data">
+                            <h3 class="place__title">Prolight</h3>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!--==================== PLACES CARD 3 ====================-->
+                <div class="place__card">
+                    <img src="assets/img/dashboard.jpg" alt="" class="place__img">
+
+                    <div class="place__content">
+
+
+                        <div class="place__data">
+                            <h3 class="place__title">Network Dashboard</h3>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+
+    </main>
+
+    <!--==================== FOOTER ====================-->
+    <footer class="footer">
+        <div class="footer__container container grid">
+            <div class="footer__content grid">
+
+
+
+                <div class="footer__rights">
+                    <p class="footer__copy">&#169; 2021 aizatkmrdin. All rigths reserved.</p>
+
+                </div>
+            </div>
         </div>
-    </section>
+
+    </footer>
+
+
+
+    <!--========== SCROLL UP ==========-->
+    <a href="#" class="scrollup" id="scroll-up">
+        <i class="ri-arrow-up-line scrollup__icon"></i>
+    </a>
+
+    <!--=============== SCROLL REVEAL===============-->
+    <script src="assets/js/scrollreveal.min.js"></script>
+
+    <!--=============== SWIPER JS ===============-->
+    <script src="assets/js/swiper-bundle.min.js"></script>
+
+    <!--=============== MAIN JS ===============-->
+    <script src="assets/js/main.js"></script>
 </body>
 
 </html>
