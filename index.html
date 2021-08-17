@@ -40,7 +40,7 @@
 
                 <i class="ri-close-line nav__close" id="nav-close"></i>
             </div>
-            <a href="#" class="nav__logo">aizatkmrdin.</a>
+            <a href="#" class="nav__logo">aizatkmrdin<span style="color: orange; font-size: 32px;">.</span></a>
             <div class="nav__toggle" id="nav-toggle">
                 <i class="ri-function-line"></i>
             </div>
@@ -52,7 +52,7 @@
         <section class="about section" id="home">
             <div class="about__container container grid">
                 <div class="about__img">
-                    aizatkmrdin.
+                    <span style="color: orange; font-size: 32px;">Aizatkmrdin</span>
                 </div>
                 <div class="about__data">
                     <h2 class="section__titles about__titles">Hello, I’m Aizat Kamarudin.</h2>
@@ -72,12 +72,21 @@
 
                 <div class="about__data2">
                     <h2 class="section__titles about__titles">Currently, I work as software team lead at Starfire Technology, A software Company. </h2>
-                    <p class="about__description" style="font-weight: bold;">I lead team which focus on develop mobile & web application. We help solve our client problem. For almost 4 year, I’ve work as software developer. As Software Team Lead, I’ve work with team and client to develop a product that can
-                        ease their work flow everyday.
+                    <p class="about__description" style="font-weight: bold;">I lead team which focus on develop mobile & web application. We help solve our client problem. For almost 3 year, I’ve work as software developer. As Software Team Lead, I’ve work with team and client to develop a product that can
+                        ease their work flow everyday. <br><br>Here a few skill I've been working with:
+                        <br>
+                        <ul>
+                            <li>> Flutter </li>
+                            <li>> HTML </li>
+                            <li>> PHP </li>
+                            <li>> MySQL </li>
+                            <li>> JavaScript </li>
+                            <li>> Cordova </li>
+                        </ul>
                     </p>
                 </div>
                 <div class="about__img">
-                    About
+                    <span style="color: orange; font-size: 32px;">About</span>
                 </div>
 
             </div>
@@ -103,7 +112,7 @@
                 </div>
 
                 <!--==================== PLACES CARD 2 ====================-->
-                <div class="place__card">
+                <div class="place__card" onclick="prolight()">
                     <img src="assets/img/prolight.jpg" alt="" class="place__img">
 
                     <div class="place__content">
@@ -168,6 +177,11 @@
 
     <!--=============== MAIN JS ===============-->
     <script src="assets/js/main.js"></script>
+    <script>
+        function prolight() {
+            window.location.href = 'prolight.html';
+        }
+    </script>
 </body>
 
 </html>
