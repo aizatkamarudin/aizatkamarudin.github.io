@@ -1,187 +1,45 @@
 <!DOCTYPE html>
-<html lang="en">
-
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
 
-    <link rel="shortcut icon" href="assets/img/aizatkmrdin.png" type="image/png">
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
 
-    <!--=============== REMIXICONS ===============-->
-    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    Fore more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+  -->
+  <base href="/">
 
-    <!--=============== SWIPER CSS ===============-->
-    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
 
-    <!--=============== CSS ===============-->
-    <link rel="stylesheet" href="assets/css/styles.css">
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="portfolio">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
-    <title>aizatkmrdin.</title>
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
+
+  <title>portfolio</title>
+  <link rel="manifest" href="manifest.json">
 </head>
-
 <body>
-    <header class="header" id="header">
-        <nav class="nav">
-
-
-            <div class="nav__menu" id="nav-menu">
-                <ul class="nav__list">
-                    <li class="nav__item">
-                        <a href="#home" class="nav__link active-link">Home</a>
-                    </li>
-                    <li class="nav__item">
-                        <a href="#about" class="nav__link">About</a>
-                    </li>
-                    <li class="nav__item">
-                        <a href="#project" class="nav__link">Project</a>
-                    </li>
-                </ul>
-
-
-                <i class="ri-close-line nav__close" id="nav-close"></i>
-            </div>
-            <a href="#" class="nav__logo">aizatkmrdin<span style="color: orange; font-size: 32px;">.</span></a>
-            <div class="nav__toggle" id="nav-toggle">
-                <i class="ri-function-line"></i>
-            </div>
-        </nav>
-    </header>
-
-    <main class="main">
-        <!--==================== HOME ====================-->
-        <section class="about section" id="home">
-            <div class="about__container container grid">
-                <div class="about__img">
-                    <span style="color: orange; font-size: 32px;">Aizatkmrdin</span>
-                </div>
-                <div class="about__data">
-                    <h2 class="section__titles about__titles">Hello, I’m Aizat Kamarudin.</h2>
-                    <h2 class="section__titles about__titles">A mobile application & fullstack developer.</h2>
-                    <p class="about__description" style="font-weight: bold;">Let’s get to know me.
-                    </p>
-                    <a href="#about" class="button">Get To Know me</a>
-                </div>
-
-
-            </div>
-        </section>
-
-        <!--==================== ABOUT ====================-->
-        <section class="about section" id="about">
-            <div class="about__container container grid">
-
-                <div class="about__data2">
-                    <h2 class="section__titles about__titles">Currently, I work as software team lead at Starfire Technology, A software Company. </h2>
-                    <p class="about__description" style="font-weight: bold;">I lead team which focus on develop mobile & web application. We help solve our client problem. For almost 3 year, I’ve work as software developer. As Software Team Lead, I’ve work with team and client to develop a product that can
-                        ease their work flow everyday. <br><br>Here a few skill I've been working with:
-                        <br>
-                        <ul>
-                            <li>> Flutter </li>
-                            <li>> HTML </li>
-                            <li>> PHP </li>
-                            <li>> MySQL </li>
-                            <li>> JavaScript </li>
-                            <li>> Cordova </li>
-                        </ul>
-                    </p>
-                </div>
-                <div class="about__img">
-                    <span style="color: orange; font-size: 32px;">About</span>
-                </div>
-
-            </div>
-        </section>
-
-
-        <!--==================== PLACES ====================-->
-        <section class="place section" id="project">
-            <h2 class="section__title" onclick="prolight()">Recent Project</h2>
-
-            <div class="place__container container grid">
-                <!--==================== PLACES CARD 1 ====================-->
-                <div class="place__card" onclick="prolight()">
-                    <img src="assets/img/que.jpg" alt="" class="place__img">
-
-                    <div class="place__content">
-
-                        <div class="place__data">
-                            <h3 class="place__title">Queue System</h3>
-                        </div>
-                    </div>
-
-                </div>
-
-                <!--==================== PLACES CARD 2 ====================-->
-                <div class="place__card" onclick="prolight()">
-                    <img src="assets/img/prolight.jpg" alt="" class="place__img">
-
-                    <div class="place__content">
-
-                        <div class="place__data">
-                            <h3 class="place__title">Prolight</h3>
-                        </div>
-                    </div>
-
-                </div>
-
-                <!--==================== PLACES CARD 3 ====================-->
-                <div class="place__card" onclick="prolight()">
-                    <img src="assets/img/dashboard.jpg" alt="" class="place__img">
-
-                    <div class="place__content">
-
-
-                        <div class="place__data">
-                            <h3 class="place__title">Network Dashboard</h3>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-
-        </section>
-
-
-
-    </main>
-
-    <!--==================== FOOTER ====================-->
-    <footer class="footer">
-        <div class="footer__container container grid">
-            <div class="footer__content grid">
-
-
-
-                <div class="footer__rights">
-                    <p class="footer__copy">&#169; 2021 aizatkmrdin. All rigths reserved.</p>
-
-                </div>
-            </div>
-        </div>
-
-    </footer>
-
-
-
-    <!--========== SCROLL UP ==========-->
-    <a href="#" class="scrollup" id="scroll-up">
-        <i class="ri-arrow-up-line scrollup__icon"></i>
-    </a>
-
-    <!--=============== SCROLL REVEAL===============-->
-    <script src="assets/js/scrollreveal.min.js"></script>
-
-    <!--=============== SWIPER JS ===============-->
-    <script src="assets/js/swiper-bundle.min.js"></script>
-
-    <!--=============== MAIN JS ===============-->
-    <script src="assets/js/main.js"></script>
-    <script>
-        function prolight() {
-            window.location.href = 'prolight.html';
-        }
-    </script>
+  <!-- This script installs service_worker.js to provide PWA functionality to
+       application. For more information, see:
+       https://developers.google.com/web/fundamentals/primers/service-workers -->
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('flutter-first-frame', function () {
+        navigator.serviceWorker.register('flutter_service_worker.js?v=3832959455');
+      });
+    }
+  </script>
+  <script src="main.dart.js" type="application/javascript"></script>
 </body>
-
 </html>
