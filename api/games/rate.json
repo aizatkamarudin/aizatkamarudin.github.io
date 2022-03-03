@@ -70,12 +70,16 @@
                     "id": 1,
                     "name": "Item 1",
                     "rate": 12,
+                    "range_from": 10,
+                    "range_to": 309,
                     "created_at": null,
                     "updated_at": null
                 },
                 {
                     "id": 2,
                     "name": "Tier 2",
+                    "range_from": 310,
+                    "range_to": 509,
                     "rate": 12.2,
                     "created_at": null,
                     "updated_at": null
@@ -84,6 +88,8 @@
                     "id": 3,
                     "name": "Tier 3",
                     "rate": 12.3,
+                    "range_from": 510,
+                    "range_to": 799,
                     "created_at": null,
                     "updated_at": null
                 },
@@ -91,6 +97,8 @@
                     "id": 4,
                     "name": "Tier 4",
                     "rate": 12.5,
+                    "range_from": 800,
+                    "range_to": 1809,
                     "created_at": null,
                     "updated_at": null
                 },
@@ -98,6 +106,8 @@
                     "id": 5,
                     "name": "Tier 5",
                     "rate": 12.6,
+                    "range_from": 1810,
+                    "range_to": 4009,
                     "created_at": null,
                     "updated_at": null
                 },
@@ -106,7 +116,9 @@
                     "name": "Tier 6",
                     "rate": 12.66,
                     "created_at": null,
-                    "updated_at": null
+                    "updated_at": null,
+                    "range_from": 4010,
+                    "range_to": 0
                 }
             ]
         }, {
@@ -118,12 +130,16 @@
                     "id": 1,
                     "name": "Item 1",
                     "rate": 12,
+                    "range_from": 10,
+                    "range_to": 309,
                     "created_at": null,
                     "updated_at": null
                 },
                 {
                     "id": 2,
                     "name": "Tier 2",
+                    "range_from": 310,
+                    "range_to": 509,
                     "rate": 12.2,
                     "created_at": null,
                     "updated_at": null
@@ -132,6 +148,8 @@
                     "id": 3,
                     "name": "Tier 3",
                     "rate": 12.3,
+                    "range_from": 510,
+                    "range_to": 799,
                     "created_at": null,
                     "updated_at": null
                 },
@@ -139,6 +157,8 @@
                     "id": 4,
                     "name": "Tier 4",
                     "rate": 12.5,
+                    "range_from": 800,
+                    "range_to": 1809,
                     "created_at": null,
                     "updated_at": null
                 },
@@ -146,6 +166,8 @@
                     "id": 5,
                     "name": "Tier 5",
                     "rate": 12.6,
+                    "range_from": 1810,
+                    "range_to": 4009,
                     "created_at": null,
                     "updated_at": null
                 },
@@ -154,7 +176,9 @@
                     "name": "Tier 6",
                     "rate": 12.66,
                     "created_at": null,
-                    "updated_at": null
+                    "updated_at": null,
+                    "range_from": 4010,
+                    "range_to": 0
                 }
             ]
         }, {
@@ -166,12 +190,16 @@
                     "id": 1,
                     "name": "Item 1",
                     "rate": 12,
+                    "range_from": 10,
+                    "range_to": 309,
                     "created_at": null,
                     "updated_at": null
                 },
                 {
                     "id": 2,
                     "name": "Tier 2",
+                    "range_from": 310,
+                    "range_to": 509,
                     "rate": 12.2,
                     "created_at": null,
                     "updated_at": null
@@ -180,6 +208,8 @@
                     "id": 3,
                     "name": "Tier 3",
                     "rate": 12.3,
+                    "range_from": 510,
+                    "range_to": 799,
                     "created_at": null,
                     "updated_at": null
                 },
@@ -187,6 +217,8 @@
                     "id": 4,
                     "name": "Tier 4",
                     "rate": 12.5,
+                    "range_from": 800,
+                    "range_to": 1809,
                     "created_at": null,
                     "updated_at": null
                 },
@@ -194,6 +226,8 @@
                     "id": 5,
                     "name": "Tier 5",
                     "rate": 12.6,
+                    "range_from": 1810,
+                    "range_to": 4009,
                     "created_at": null,
                     "updated_at": null
                 },
@@ -202,7 +236,9 @@
                     "name": "Tier 6",
                     "rate": 12.66,
                     "created_at": null,
-                    "updated_at": null
+                    "updated_at": null,
+                    "range_from": 4010,
+                    "range_to": 0
                 }
             ]
         }]
