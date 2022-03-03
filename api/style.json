@@ -1,0 +1,21 @@
+{
+  "data" : {
+  "get_company_style": [
+        {
+        "id": 1,
+        "color": "36353C",
+        "company_name": "Todak Culture",
+        },
+        {
+        "id": 2,
+        "color": "36353C",
+        "company_name": "Todak Studio",
+        },
+        {
+        "id": 3,
+        "color": "A3C944",
+        "company_name": "Todak Academy",
+        }
+  ]
+  }
+}
