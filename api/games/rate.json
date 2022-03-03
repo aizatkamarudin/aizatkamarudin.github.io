@@ -1,0 +1,199 @@
+[{
+    "success": true,
+    "data": {
+        "game": [{
+            "id": 1,
+            "name": "Free Fire Diamonds",
+            "description": "",
+            "currency": "Diamonds",
+            "rate": [{
+                    "id": 1,
+                    "name": "Item 1",
+                    "rate": 12,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 2,
+                    "name": "Tier 2",
+                    "rate": 12.2,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 3,
+                    "name": "Tier 3",
+                    "rate": 12.3,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 4,
+                    "name": "Tier 4",
+                    "rate": 12.5,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 5,
+                    "name": "Tier 5",
+                    "rate": 12.6,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 6,
+                    "name": "Tier 6",
+                    "rate": 12.66,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        }, {
+            "id": 2,
+            "name": "Mobile Legends",
+            "currency": "Diamonds",
+            "description": "",
+            "rate": [{
+                    "id": 1,
+                    "name": "Item 1",
+                    "rate": 12,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 2,
+                    "name": "Tier 2",
+                    "rate": 12.2,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 3,
+                    "name": "Tier 3",
+                    "rate": 12.3,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 4,
+                    "name": "Tier 4",
+                    "rate": 12.5,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 5,
+                    "name": "Tier 5",
+                    "rate": 12.6,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 6,
+                    "name": "Tier 6",
+                    "rate": 12.66,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        }, {
+            "id": 3,
+            "name": "PUBG Mobile",
+            "currency": "Unknown Cash",
+            "description": "",
+            "rate": [{
+                    "id": 1,
+                    "name": "Item 1",
+                    "rate": 12,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 2,
+                    "name": "Tier 2",
+                    "rate": 12.2,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 3,
+                    "name": "Tier 3",
+                    "rate": 12.3,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 4,
+                    "name": "Tier 4",
+                    "rate": 12.5,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 5,
+                    "name": "Tier 5",
+                    "rate": 12.6,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 6,
+                    "name": "Tier 6",
+                    "rate": 12.66,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        }, {
+            "id": 4,
+            "name": "Valorant",
+            "currency": "Points",
+            "description": "",
+            "rate": [{
+                    "id": 1,
+                    "name": "Item 1",
+                    "rate": 14,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 2,
+                    "name": "Tier 2",
+                    "rate": 14.2,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 3,
+                    "name": "Tier 3",
+                    "rate": 14.3,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 4,
+                    "name": "Tier 4",
+                    "rate": 14.5,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 5,
+                    "name": "Tier 5",
+                    "rate": 14.6,
+                    "created_at": null,
+                    "updated_at": null
+                },
+                {
+                    "id": 6,
+                    "name": "Tier 6",
+                    "rate": 14.66,
+                    "created_at": null,
+                    "updated_at": null
+                }
+            ]
+        }]
+    },
+    "message": "Rate retrieve successfully."
+}]
