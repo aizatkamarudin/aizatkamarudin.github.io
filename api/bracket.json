@@ -1,0 +1,223 @@
+{
+    "message": {
+        "stage": [{
+                "stage_name": "Upper Bracket Semi-Finals",
+                "stage_status": "ongoing",
+                "stage_start": "2022-05-18",
+                "stage_end": "2022-06-11",
+                "match": [{
+                    "team_a": "Team SMG",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/9/91/Team_SMG_2022_allmode.png/132px-Team_SMG_2022_allmode.png",
+                    "team_b": "Todak",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/6/6d/Todak_lightmode.png/68px-Todak_lightmode.png",
+                    "match_status": "upcoming",
+                    "winner": "team_b",
+                    "match_date": "Thu, 19 May",
+                    "match_time": "8:21 AM",
+                    "score": {
+                        "score_team_a": 0,
+                        "score_team_b": 2
+                    },
+                    "tournament": {
+                        "tournament_name": "MPL Malaysia Season 9",
+                        "tournament_type": "single elimination"
+                    }
+                }, {
+                    "team_a": "RED",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/8/8f/RED_Esports_lightmode.png/200px-RED_Esports_lightmode.png",
+                    "team_b": "Suhaz Esports",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/0/0d/Suhaz_Esports_allmode.png/110px-Suhaz_Esports_allmode.png",
+                    "match_status": "upcoming",
+                    "winner": "team_b",
+                    "match_date": "Thu, 19 May",
+                    "match_time": "8:21 AM",
+                    "score": {
+                        "score_team_a": 1,
+                        "score_team_b": 2
+                    },
+                    "tournament": {
+                        "tournament_name": "MPL Malaysia Season 9",
+                        "tournament_type": "single elimination"
+                    }
+                }]
+            }, {
+                "stage_name": "Upper Bracket Semi-Finals",
+                "stage_status": "ongoing",
+                "stage_start": "2022-05-18",
+                "stage_end": "2022-06-11",
+                "match": [{
+                    "team_a": "Todak",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/6/6d/Todak_lightmode.png/68px-Todak_lightmode.png",
+                    "team_b": "Suhaz Esports",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/0/0d/Suhaz_Esports_allmode.png/110px-Suhaz_Esports_allmode.png",
+                    "match_status": "upcoming",
+                    "winner": "team_a",
+                    "match_date": "Thu, 19 May",
+                    "match_time": "8:21 AM",
+                    "score": {
+                        "score_team_a": 3,
+                        "score_team_b": 0
+                    },
+                    "tournament": {
+                        "tournament_name": "MPL Malaysia Season 9",
+                        "tournament_type": "single elimination"
+                    }
+                }]
+            },
+            {
+                "stage_name": "Grand Final",
+                "stage_status": "ongoing",
+                "stage_start": "2022-05-18",
+                "stage_end": "2022-06-11",
+                "match": [{
+                    "team_a": "Todak",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/6/6d/Todak_lightmode.png/68px-Todak_lightmode.png",
+                    "team_b": "Orange Esports",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/1/1c/Orange_Esports_allmode.png/200px-Orange_Esports_allmode.png",
+                    "match_status": "upcoming",
+                    "winner": "team_a",
+                    "match_date": "Thu, 19 May",
+                    "match_time": "8:21 AM",
+                    "score": {
+                        "score_team_a": 1,
+                        "score_team_b": 4
+                    },
+                    "tournament": {
+                        "tournament_name": "MPL Malaysia Season 9",
+                        "tournament_type": "single elimination"
+                    }
+                }]
+            },
+            {
+                "stage_name": "Lower Round 1",
+                "stage_status": "ongoing",
+                "stage_start": "2022-05-18",
+                "stage_end": "2022-06-11",
+                "match": [{
+                    "team_a": "HomeBois",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/5/59/HomeBois_allmode.png/89px-HomeBois_allmode.png",
+                    "team_b": "Team Caracal",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/4/49/Team_Caracal_Logo.png/100px-Team_Caracal_Logo.png",
+                    "match_status": "upcoming",
+                    "winner": "team_b",
+                    "match_date": "Thu, 19 May",
+                    "match_time": "8:21 AM",
+                    "score": {
+                        "score_team_a": 0,
+                        "score_team_b": 2
+                    },
+                    "tournament": {
+                        "tournament_name": "MPL Malaysia Season 9",
+                        "tournament_type": "single elimination"
+                    }
+                }, {
+                    "team_a": "RSG Malaysia",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/6/6d/Todak_lightmode.png/68px-Todak_lightmode.png",
+                    "team_b": "Orange Esports",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/1/1c/Orange_Esports_allmode.png/200px-Orange_Esports_allmode.png",
+                    "match_status": "upcoming",
+                    "winner": "team_b",
+                    "match_date": "Thu, 19 May",
+                    "match_time": "8:21 AM",
+                    "score": {
+                        "score_team_a": 0,
+                        "score_team_b": 2
+                    },
+                    "tournament": {
+                        "tournament_name": "MPL Malaysia Season 9",
+                        "tournament_type": "single elimination"
+                    }
+                }]
+            },
+            {
+                "stage_name": "Lower Bracket Quarter-Finals",
+                "stage_status": "ongoing",
+                "stage_start": "2022-05-18",
+                "stage_end": "2022-06-11",
+                "match": [{
+                    "team_a": "RED",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/8/8f/RED_Esports_lightmode.png/200px-RED_Esports_lightmode.png",
+                    "team_b": "Orange Esports",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/1/1c/Orange_Esports_allmode.png/200px-Orange_Esports_allmode.png",
+                    "match_status": "upcoming",
+                    "winner": "team_b",
+                    "match_date": "Thu, 19 May",
+                    "match_time": "8:21 AM",
+                    "score": {
+                        "score_team_a": 1,
+                        "score_team_b": 2
+                    },
+                    "tournament": {
+                        "tournament_name": "MPL Malaysia Season 9",
+                        "tournament_type": "single elimination"
+                    }
+                }, {
+                    "team_a": "Team SMG",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/9/91/Team_SMG_2022_allmode.png/132px-Team_SMG_2022_allmode.png",
+                    "team_b": "Team Caracal",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/4/49/Team_Caracal_Logo.png/100px-Team_Caracal_Logo.png",
+                    "match_status": "upcoming",
+                    "winner": "team_b",
+                    "match_date": "Thu, 19 May",
+                    "match_time": "8:21 AM",
+                    "score": {
+                        "score_team_a": 0,
+                        "score_team_b": 2
+                    },
+                    "tournament": {
+                        "tournament_name": "MPL Malaysia Season 9",
+                        "tournament_type": "single elimination"
+                    }
+                }]
+            }, {
+                "stage_name": "Lower Bracket Semi-Finals",
+                "stage_status": "ongoing",
+                "stage_start": "2022-05-18",
+                "stage_end": "2022-06-11",
+                "match": [{
+                    "team_a": "Team Caracal",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/4/49/Team_Caracal_Logo.png/100px-Team_Caracal_Logo.png",
+                    "team_b": "Orange Esports",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/1/1c/Orange_Esports_allmode.png/200px-Orange_Esports_allmode.png",
+                    "match_status": "upcoming",
+                    "winner": "team_b",
+                    "match_date": "Thu, 19 May",
+                    "match_time": "8:21 AM",
+                    "score": {
+                        "score_team_a": 1,
+                        "score_team_b": 2
+                    },
+                    "tournament": {
+                        "tournament_name": "MPL Malaysia Season 9",
+                        "tournament_type": "single elimination"
+                    }
+                }]
+            },
+            {
+                "stage_name": "Lower Bracket Final",
+                "stage_status": "ongoing",
+                "stage_start": "2022-05-18",
+                "stage_end": "2022-06-11",
+                "match": [{
+                    "team_a": "Suhaz Esports",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/0/0d/Suhaz_Esports_allmode.png/110px-Suhaz_Esports_allmode.png",
+                    "team_b": "Orange Esports",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/1/1c/Orange_Esports_allmode.png/200px-Orange_Esports_allmode.png",
+                    "match_status": "upcoming",
+                    "winner": "team_b",
+                    "match_date": "Thu, 19 May",
+                    "match_time": "8:21 AM",
+                    "score": {
+                        "score_team_a": 0,
+                        "score_team_b": 3
+                    },
+                    "tournament": {
+                        "tournament_name": "MPL Malaysia Season 9",
+                        "tournament_type": "single elimination"
+                    }
+                }]
+            }
+        ]
+
+    }
+}
