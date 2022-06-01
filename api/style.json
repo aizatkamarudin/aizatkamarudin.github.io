@@ -94,10 +94,10 @@
                 "stage_start": "2022-05-18",
                 "stage_end": "2022-06-11",
                 "match": [{
-                    "team_a": "HomeBois",
-                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/5/59/HomeBois_allmode.png/89px-HomeBois_allmode.png",
-                    "team_b": "Team Caracal",
-                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/4/49/Team_Caracal_Logo.png/100px-Team_Caracal_Logo.png",
+                    "team_a": "RSG Malaysia",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/b/b5/RSG_allmode.png/107px-RSG_allmode.png",
+                    "team_b": "Orange Esports",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/1/1c/Orange_Esports_allmode.png/200px-Orange_Esports_allmode.png",
                     "match_status": "upcoming",
                     "winner": "team_b",
                     "match_date": "Thu, 19 May",
@@ -111,10 +111,10 @@
                         "tournament_type": "single elimination"
                     }
                 }, {
-                    "team_a": "RSG Malaysia",
-                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/b/b5/RSG_allmode.png/107px-RSG_allmode.png",
-                    "team_b": "Orange Esports",
-                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/1/1c/Orange_Esports_allmode.png/200px-Orange_Esports_allmode.png",
+                    "team_a": "HomeBois",
+                    "team_a_logo": "https://liquipedia.net/commons/images/thumb/5/59/HomeBois_allmode.png/89px-HomeBois_allmode.png",
+                    "team_b": "Team Caracal",
+                    "team_b_logo": "https://liquipedia.net/commons/images/thumb/4/49/Team_Caracal_Logo.png/100px-Team_Caracal_Logo.png",
                     "match_status": "upcoming",
                     "winner": "team_b",
                     "match_date": "Thu, 19 May",
