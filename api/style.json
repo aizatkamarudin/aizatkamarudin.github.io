@@ -79,8 +79,8 @@
                     "match_date": "Thu, 19 May",
                     "match_time": "8:21 AM",
                     "score": {
-                        "score_team_a": 1,
-                        "score_team_b": 4
+                        "score_team_a": 4,
+                        "score_team_b": 1
                     },
                     "tournament": {
                         "tournament_name": "MPL Malaysia Season 9",
